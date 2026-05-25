@@ -1,6 +1,6 @@
 ## Olá, Sou a Thayssa Fernanda👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e aprendizado contínuo.  
+Estudante do 4° Semestre de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento de software e aprendizado contínuo.  
 
 Gosto de criar pequenos projetos para praticar e evoluir minhas habilidades em programação.  
 
