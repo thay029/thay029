@@ -6,7 +6,7 @@ Gosto de criar pequenos projetos para praticar e evoluir minhas habilidades em p
 
 Atualmente estou em busca da minha primeira oportunidade na área de tecnologia.  
 
-Nascido em 2005, sempre curioso por tecnologia e inovação.
+Nascida em 2005, sempre curiosa por tecnologia e inovação.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
